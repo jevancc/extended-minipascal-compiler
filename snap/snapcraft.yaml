@@ -18,7 +18,7 @@ parts:
 
     mini-pascal:
         plugin: make
-        source: https://gitlab.com/jevan0307/mini-pascal.git
+        source: https://github.com/jevan0307/extended-minipascal-compiler
         source-type: git
         build-packages:
             - g++
