@@ -21,7 +21,7 @@
     * [Continue](/Loops/Continue.md)
     * [Nesting and Labels](/Loops/NestingAndLabels.md)
 * Subprograms
-    * [Basic Function](/)
+    * [Basic Function](/Subprograms/BasicFunction.md)
     * [Return Statement](/Subprograms/Return.md)
     * [JFunction](/Subprograms/JFunction.md)
     * [Function Overloading](/Subprograms/Overloading.md)
