@@ -45,3 +45,6 @@ The following table lists the precedence and associativity of Mini-Pascal  opera
 | 7 | and |
 | 8 | ?: (ternary if) |
 | 9 | :=, +=, -=, *=, /= |
+
+## Reference
+* [Pascal - Operators](https://www.tutorialspoint.com/pascal/pascal_operators.htm)

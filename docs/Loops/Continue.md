@@ -38,3 +38,6 @@ value of a: 17
 value of a: 18
 value of a: 19
 ```
+
+## Reference
+* [Pascal - Continue Statement, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_continue_statement.htm)

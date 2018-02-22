@@ -27,3 +27,6 @@ Output:
 ```
 value of a is 100
 ```
+
+## Reference
+* [Pascal - if then else statement, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_if_then_else_statement.htm)

@@ -49,3 +49,6 @@ value of a: 18
 value of a: 19
 value of a: 20
 ```
+
+## Reference
+* [Pascal - For-do Loop, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_for_do_loop.htm)

@@ -37,3 +37,6 @@ value of a: 17
 value of a: 18
 value of a: 19
 ```
+
+## Reference
+* [Pascal - While-do Loop, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_while_do_loop.htm)

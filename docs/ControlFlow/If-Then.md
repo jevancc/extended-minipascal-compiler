@@ -9,3 +9,6 @@ Where condition is a relational expression and statement is a simple or compound
 
 ## Flow Diagram
 // keep
+
+## Reference
+* [Pascal - if-then Statement, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_if_then_statement.htm)

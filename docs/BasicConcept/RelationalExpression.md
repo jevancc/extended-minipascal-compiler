@@ -20,3 +20,6 @@ Following table shows all the Boolean operators supported by the Mini-Pascal lan
 | and | Called Boolean AND operator. If both the operands are true, then condition becomes true. |
 | or | Called Boolean OR Operator. If any of the two operands is true, then condition becomes true. |
 | not | Called Boolean NOT Operator. Used to reverse the logical state of its operand. If a condition is true, then Logical NOT operator will make it false. |
+
+## Reference
+* [Pascal - Operators](https://www.tutorialspoint.com/pascal/pascal_operators.htm)
