@@ -1,0 +1,10 @@
+{
+    "title": "Extended Mini-Pascal Compiler Document",
+    "author": "Jevan Chan",
+    "root": "./docs",
+    "language": "en",
+    "pdf": {
+        "fontSize": 20,
+        "paperSize": "a4"
+    }
+}

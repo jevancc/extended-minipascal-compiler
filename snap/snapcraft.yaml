@@ -1,0 +1,31 @@
+name: mini-pascal
+version: 1.0.0
+summary: A Mini-Pascal compiler
+description: A Mini-Pascal compiler
+confinement: devmode
+grade: devel
+
+apps:
+    mini-pascal:
+        environment:
+            LC_ALL: "C.UTF-8"
+        command: usr/bin/mini-pascal
+
+parts:
+    install-jdk:
+        plugin: jdk
+        source: .
+
+    mini-pascal:
+        plugin: make
+        source: https://gitlab.com/jevan0307/mini-pascal.git
+        source-type: git
+        build-packages:
+            - g++
+            - flex
+            - bison
+            - libboost-filesystem-dev
+            - libboost-system-dev
+            - libboost-program-options-dev
+        after:
+            - install-jdk

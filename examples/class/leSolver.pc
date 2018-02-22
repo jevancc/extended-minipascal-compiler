@@ -1,0 +1,8 @@
+class leSolver;
+var m, x, y, b: real;
+
+procedure solve;
+begin
+    x := (y - b)/m;
+end;
+.
