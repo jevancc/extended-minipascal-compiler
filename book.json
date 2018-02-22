@@ -4,7 +4,7 @@
     "root": "./docs",
     "language": "en",
     "pdf": {
-        "fontSize": 20,
+        "fontSize": 12,
         "paperSize": "a4"
     }
 }
