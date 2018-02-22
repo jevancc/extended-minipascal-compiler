@@ -22,4 +22,4 @@ Following table shows all the Boolean operators supported by the Mini-Pascal lan
 | not | Called Boolean NOT Operator. Used to reverse the logical state of its operand. If a condition is true, then Logical NOT operator will make it false. |
 
 ## Reference
-* [Pascal - Operators](https://www.tutorialspoint.com/pascal/pascal_operators.htm)
+* [Pascal - Operators, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_operators.htm)

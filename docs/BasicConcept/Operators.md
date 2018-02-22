@@ -47,4 +47,4 @@ The following table lists the precedence and associativity of Mini-Pascal  opera
 | 9 | :=, +=, -=, *=, /= |
 
 ## Reference
-* [Pascal - Operators](https://www.tutorialspoint.com/pascal/pascal_operators.htm)
+* [Pascal - Operators, tutorialspoint](https://www.tutorialspoint.com/pascal/pascal_operators.htm)
