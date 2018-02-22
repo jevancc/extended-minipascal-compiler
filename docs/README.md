@@ -7,7 +7,7 @@ All examples in this document can be found in the repository:
 * [Extended Mini-Pascal Compiler - Examples](https://github.com/jevan0307/extended-minipascal-compiler/tree/master/examples)
 
 ## Reference
-* [Pascal Tutorial, Tutorials Point](https://www.tutorialspoint.com/pascal/index.htm)
+* [Pascal Tutorial, tutorialspoint](https://www.tutorialspoint.com/pascal/index.htm)
 * [Javascript MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 * [Learning Rust, Dumindu Madunuwan](https://www.gitbook.com/book/dumindu/learning-rust/details)
 * [Python 3.6.4 Document](https://docs.python.org/3/)

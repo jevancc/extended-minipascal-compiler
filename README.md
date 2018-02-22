@@ -1,6 +1,5 @@
 # Extended Mini-Pascal Compiler
 
-A JVM based mini-pascal compiler.    
 Extended Mini-Pascal is a language based on [mini-pascal](http://www.skidmore.edu/~meckmann/2006Fall/cs330/EBNF_MiniPascal.html) and Pascal language, and provided advanced features like `module` and `class`. To learn this programming language, you can study the basic usage of Pascal language and read the document of this project for extra features in extended mini-pascal. The followings are the links to the aforementioned materials:     
 * [Pascal Tutorial, tutorialspoint](https://www.tutorialspoint.com/pascal/index.htm)
 * [Extended Mini-Pascal Compiler Document](https://www.gitbook.com/book/jevan0307/extended-mini-pascal-compiler-document/details)
@@ -86,7 +85,7 @@ The document is powered by Gitbook, including language syntax description and us
 [Read more about extended mini-pascal](https://www.gitbook.com/book/jevan0307/extended-mini-pascal-compiler-document/details)
 
 ## Reference
-* [Pascal Tutorial, Tutorials Point](https://www.tutorialspoint.com/pascal/index.htm)
+* [Pascal Tutorial, tutorialspoint](https://www.tutorialspoint.com/pascal/index.htm)
 * [Javascript MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 * [Learning Rust, Dumindu Madunuwan](https://www.gitbook.com/book/dumindu/learning-rust/details)
 * [Python 3.6.4 Document](https://docs.python.org/3/)
