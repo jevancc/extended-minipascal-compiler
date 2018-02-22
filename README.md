@@ -92,4 +92,4 @@ The document is powered by Gitbook, including language syntax description and us
 
 ## Author
 * [Jevan Chan](mailto:jevan.cnchan@gmail.com)
-    * Department of Electronic Engineering, National Chiao Tung University
+    * Department of Electronics Engineering, National Chiao Tung University
