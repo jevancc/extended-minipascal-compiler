@@ -831,10 +831,6 @@ bool SymTable::semanticCheck(Node *n) {
             }
             return noError;
         }
-        /* Only implemented binary op here, you should implement unary op */
-        /* You should check the LHS of assign stmt is assignable
-           You should also report error if LHS is a function with no parameter
-           (function is not implemented in this sample, you should implement it) */
         case N_AND:
         case N_OR: {
             bool noError = true;
@@ -933,7 +929,6 @@ bool SymTable::semanticCheck(Node *n) {
         }
     }
 
-    /* Default action for other nodes not listed in the switch-case */
     Node *child = n->child;
     if(child != NULL) {
         do {

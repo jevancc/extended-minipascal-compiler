@@ -1306,23 +1306,4 @@ void CodeGen::wModuleClass(Node *n) {
             } while (func != funcs->child);
         }
     }
-
-    // wProgramVars(n->nthChild(4));
-    // printf("\n");
-
-    // printf(".method public static vinit()V\n");
-    // wJMethodLimits();
-    // wProgramVarInit(n->nthChild(4));
-    // printf("return\n");
-    // printf(".end method\n");
-    // printf("\n");
-
-    // wModule(n->nthChild(3));
-
-    // printf(".method public static main([Ljava/lang/String;)V\n");
-    // wJMethodLimits();
-    // printf("invokestatic %s/vinit()V\n", javaClassName.c_str());
-    // wBody(n->nthChild(6));
-    // printf("return\n");
-    // printf(".end method\n");
 }
