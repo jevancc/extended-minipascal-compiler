@@ -3,6 +3,9 @@ This book is the Extended Mini-Pascal document written by Jevan Chan in January 
 Github repository of extended mini-pascal compiler:
 * [Extended Mini-Pascal Compiler](https://github.com/jevan0307/extended-minipascal-compiler)
 
+All examples in this document can be found in the repository:     
+* [Extended Mini-Pascal Compiler - Examples](https://github.com/jevan0307/extended-minipascal-compiler/tree/master/examples)
+
 ## Reference
 * [Pascal Tutorial, Tutorials Point](https://www.tutorialspoint.com/pascal/index.htm)
 * [Javascript MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
