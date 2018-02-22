@@ -1,6 +1,6 @@
 # Installation
 The Mini-Pascal is a JVM based language, the compiler written in C++, with Flex and Bison as the token and parser generator, and Jamin to translate the Jasmin code into java class.     
-The source code can be downloaded [here](/release/mini-pascal_1.0.0.7z)
+The source code can be downloaded from the [repository](https://github.com/jevan0307/extended-minipascal-compiler)
 
 ## Project Structure
 The following is the directory tree of this project:
@@ -27,7 +27,7 @@ The following is the directory tree of this project:
 ```
 
 ## Snaps
-The mini-pascal compiler is released in [snaps](https://snapcraft.io/). If you are using Linux system, you can install snaps and download the mini-pascal package [here](/release/mini-pascal_1.0.0_amd64.snap).   
+The mini-pascal compiler is released in [snaps](https://snapcraft.io/). If you are using Linux system, you can install snaps and download the mini-pascal package [here](https://github.com/jevan0307/extended-minipascal-compiler/release/mini-pascal_1.0.0_amd64.snap).   
 Since the package is released in development mode, use the following command to install it:
 ```
 $ snap install mini-pascal_1.0.0_amd64.snap --devmode --dangerous
