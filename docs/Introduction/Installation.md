@@ -1,5 +1,5 @@
 # Installation
-The Mini-Pascal is a JVM based language, the compiler written in C++, with Flex and Bison as the token and parser generator, and Jamin to translate the Jasmin code into java class.     
+The Mini-Pascal is a JVM based language, and this compiler is written in C++, with Flex and Bison as the token and parser generator, and Jamin to translate the Jasmin code into java class.     
 The source code can be downloaded from the [repository](https://github.com/jevan0307/extended-minipascal-compiler).
 
 ## Project Structure
