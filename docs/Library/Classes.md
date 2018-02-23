@@ -41,7 +41,8 @@ The subprograms defined in the class file will are the methods of the class. In 
 ## Example
 Following is a simple example of class in Mini-Pascal.   
 leSolver is a class to solve the linear equation `y = mx+b`. By setting the `m`, `b`, and `y` of the member, you can call the method `solve` and the value of `x` will be stored in the member `x`. The codes can be found in the `example/` and `example/class`.    
-**leSolver.pc**
+
+**class/leSolver.pc**
 ```
 class leSolver;
 var m, x, y, b: real;
@@ -90,4 +91,4 @@ Due to the time limit of the project, the spec of class in Mini-Pascal is not co
 | Class member methods | v |
 | Class constructor | |
 | Class operator overloaded | |
-| Class inheritance |   |
+| Class inheritance | &nbsp; |
