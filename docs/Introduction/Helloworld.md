@@ -19,7 +19,7 @@ To compile your program, execute the following command:
 ```
 $ mini-pascal helloworld.p -o helloworld.jar -l ./libs
 ```
-The option `-o` is to tell the compiler to generate the compiled java jar file into `helloworld.jar`. The option `-l` is to specified the library search path, which is the director our module file `io.pm` is located.
+The option `-o` is to tell the compiler to generate the compiled java jar file into `helloworld.jar`. The option `-l` is to specified the library search path, which is the directory which our module file `io.pm` locates.
 
 ## Execution
 The compiler will generate a java jar file. Run the java to execute our program:

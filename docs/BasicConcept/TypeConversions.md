@@ -36,7 +36,7 @@ As what example shows, the value of `iv` in the first statement is promoted from
 ## Type Precedence
 Implicit conversions only happen when converting values from low precedence type to high precedence type. The following is the table of type precedence:
 
-| Type | precedence |
+| Type | Precedence |
 | ---- | -------- |
 | Integer | 1   |
 | Real    | 2   |
